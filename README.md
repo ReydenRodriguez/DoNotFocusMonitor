@@ -42,7 +42,7 @@ By using advanced computer vision and language models, DoNot monitors your atten
 1. Clone this repo:
     ```sh
     git clone https://github.com/ReydenRodriguez/DoNotFocusMonitor.git
-    cd donot-focus-monitor
+    cd DoNotFocusMonitor
     ```
 2. Install dependencies:
     ```sh
